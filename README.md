@@ -5,12 +5,14 @@ Este é um projeto pessoal cujo objetivo é integrar conhecimentos relacionados 
 ## Tecnologias usadas 🚀
 
 - Android | Kotlin ✔︎
-- Jetpack Compose ✔︎
-- Navigation Compose ✔︎
-- Koin ✔︎
+- MVVM + Clean Architecture ✔︎
+- Jetpack Compose
+- LiveData, StateFlow ✔︎
+- Consumo de REST API 's com Coroutines, Flow e Retrofit2 ✔︎
 - Coil ✔︎
-- Retrofit2 ✔︎
-- Coroutines, Flow, StateFlow ✔︎
+- Koin ✔︎
+- Navigation Compose ✔︎
+- ViewGroups, ViewBinding, Custom Components ✔︎
 
 Se gostar, não esqueça de deixar sua estrela, com certeza irá me ajudar muito ⭐
 
