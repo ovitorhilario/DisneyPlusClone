@@ -12,7 +12,6 @@ Este é um projeto pessoal cujo objetivo é integrar conhecimentos relacionados 
 - Coil ✔︎
 - Koin ✔︎
 - Navigation Compose ✔︎
-- ViewGroups, ViewBinding, Custom Components ✔︎
 
 Se gostar, não esqueça de deixar sua estrela, com certeza irá me ajudar muito ⭐
 
